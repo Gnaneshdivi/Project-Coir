@@ -40,8 +40,6 @@ How it does these things:
 
 
 
-Team:
-Divi Gnanesh
 
 
 
@@ -74,3 +72,16 @@ What's next:
 
 
 Tech stack:
+
+
+
+
+
+
+
+
+
+
+
+Team:
+1)Divi Gnanesh
