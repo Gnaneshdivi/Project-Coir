@@ -28,11 +28,13 @@ This is a mobile-based application on the citizen's side and a web interface for
 
 ## Challenges we ran into: 
 
-1-One of the challenges we ran into was token generation.Because we arenot generating randomized tokens.The token generated are based on the date,time and the location.Almost every part of the country comes under the range of any oone policestation.Based on this we generate tokens.
+- One of the challenges we ran into was token generation.Because we arenot generating randomized tokens.The token generated are based on the date,time and the location.Almost every part of the country comes under the range of any oone policestation.Based on this we generate tokens.
 
-2-Another challenge we faced was integrating an application with blockchain.Its a complex netwrok and the two interfaces has to be differentiated.
+- Another challenge we faced was integrating an application with blockchain.Its a complex netwrok and the two interfaces has to be differentiated.
 
 ## What's next:
+
+- We are planning to add feature to track all the locations of the involved people who installs the the mobile application.
 
 
 
