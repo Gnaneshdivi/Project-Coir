@@ -1,6 +1,8 @@
 # Project còir
 
-
+            
+**Project còir means fair and justice in the Scottish language. As the name suggests it is a project designed to maintain transparency and fairness in the lawsuits which are filed by different individuals. We used blockchain to solve some of the major problems reported by citizens across the country like data tampering and corruption.
+**
 
 ## Inspiration
 It was an incident that inspired us to come up with an idea like this. There is an old couple in our relatives who had suffered a lot from filing a case 
