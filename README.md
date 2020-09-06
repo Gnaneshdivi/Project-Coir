@@ -54,7 +54,9 @@ This is a mobile-based application on the citizen's side and a web interface for
 
 
 ## Team
--Divi Gnanesh
--Tejashwar
--Naga Nithin
+- Divi Gnanesh
+- Tejeshwar Reddy
+- Naga Nithin
+- Shyam Sundar
+
 
