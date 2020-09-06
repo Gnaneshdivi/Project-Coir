@@ -32,7 +32,7 @@ This is a mobile-based application on the citizen's side and a web interface for
 
 2-Another challenge we faced was integrating an application with blockchain.Its a complex netwrok and the two interfaces has to be differentiated.
 
-What's next:
+## What's next:
 
 
 
@@ -40,4 +40,10 @@ What's next:
 
 
 
-Tech stack:
+## Tech stack:
+
+-Ethereum
+-Blockchain
+-Flutter
+-Dart
+-Onedapp
