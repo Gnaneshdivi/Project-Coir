@@ -42,8 +42,8 @@ This is a mobile-based application on the citizen's side and a web interface for
 
 ## Tech stack:
 
--Ethereum
--Blockchain
--Flutter
--Dart
--Onedapp
+- Ethereum
+- Blockchain
+- Flutter
+- Dart
+- Onedapp
