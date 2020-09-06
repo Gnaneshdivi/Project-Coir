@@ -49,3 +49,12 @@ This is a mobile-based application on the citizen's side and a web interface for
 - Flutter
 - Dart
 - Onedapp
+
+
+
+
+## Team
+-Divi Gnanesh
+-Tejashwar
+-Naga Nithin
+
